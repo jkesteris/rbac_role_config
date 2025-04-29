@@ -1,0 +1,13 @@
+roles:
+  finance_team:
+    description: "Finance team access to finance DAGs."
+    users:
+      - alice@example.com
+      - bob@example.com
+
+  marketing_team:
+    description: "Marketing team access to marketing DAGs."
+    users:
+      - charlie@example.com
+      - dave@example.com
+
