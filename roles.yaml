@@ -11,3 +11,9 @@ roles:
       - charlie@example.com
       - dave@example.com
 
+  supply_team:
+    description: "Supply team access to supply DAGs."
+    users:
+      - ben@example.com
+      - sara@example.com
+
